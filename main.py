@@ -9,7 +9,8 @@ data = {'Name': ['Alice', 'Bob', 'Charlie'],
 
 data = {'Name': ['kien', 'trung', 'nguyen'],
     'Age': [25, 30, 35],
-    'City': ['New York', 'Los Angeles', 'Chicago']
+    'City': ['New York', 'Los Angeles', 'Chicago'],
+    'Adress': ['New York1', 'Los Angeles1', 'Chicago1']
     }
 
 df = pd.DataFrame(data)
